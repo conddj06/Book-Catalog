@@ -1,0 +1,69 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Book Catalog</title>
+</head>
+
+<body>
+  <table border="1">
+    <caption>Big Books</caption>
+
+    <thead>
+      <tr>
+        <th>Title</th>
+        <th>Author</th>
+        <th>Genre</th>
+        <th>Publication Year</th>
+      </tr>
+    </thead>
+
+    <tbody>
+      <tr>
+        <td>War and Peace</td>
+        <td>Leo Tolstoy</td>
+        <td>Historical Fiction</td>
+        <td>1869</td>
+      </tr>
+      <tr>
+        <td>Les Misérables</td>
+        <td>Victor Hugo</td>
+        <td>Historical Fiction</td>
+        <td>1862</td>
+      </tr>
+      <tr>
+        <td>The Count of Monte Cristo</td>
+        <td>Alexandre Dumas</td>
+        <td>Adventure</td>
+        <td>1844</td>
+      </tr>
+      <tr>
+        <td>In Search of Lost Time</td>
+        <td>Marcel Proust</td>
+        <td>Modernist</td>
+        <td>1913</td>
+      </tr>
+      <tr>
+        <td>Ulysses</td>
+        <td>James Joyce</td>
+        <td>Modernist</td>
+        <td>1922</td>
+      </tr>
+    </tbody>
+
+    <tfoot>
+      <tr>
+         <td colspan="4">Total Books: 5</td>
+      </tr>
+    </tfoot>
+  </table>
+</body>
+
+</html>
+
+** end of index.html **
+
